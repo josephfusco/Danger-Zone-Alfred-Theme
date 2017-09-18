@@ -1,6 +1,6 @@
 # Danger Zone Alfred Theme
 
-A pretty sweet theme for [alfred](https://www.alfredapp.com/).
+A pretty sweet theme for [Alfred](https://www.alfredapp.com/).
 
 ## Install
 
