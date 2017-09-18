@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#4A5B66FF",
+        "font" : "Courier Bold",
+        "color" : "#4B5B67FF"
+      },
+      "shortcut" : {
+        "size" : 21,
+        "colorSelected" : "#A70015FF",
+        "font" : "System",
+        "color" : "#F5CB2BFF"
+      },
+      "backgroundSelected" : "#091C37FF",
+      "text" : {
+        "size" : 18,
+        "colorSelected" : "#F4CA2AFF",
+        "font" : "System",
+        "color" : "#F4C62DDB"
+      },
+      "iconPaddingHorizontal" : 13,
+      "paddingVertical" : 7,
+      "iconSize" : 39
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#10234FFF",
+      "spacing" : 8,
+      "text" : {
+        "size" : 38,
+        "colorSelected" : "#000000FF",
+        "font" : "System",
+        "color" : "#F5CC29FF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#10234FFF",
+      "paddingHorizontal" : 0,
+      "width" : 700,
+      "borderPadding" : 1,
+      "borderColor" : "#091C37FF",
+      "blur" : 15,
+      "roundness" : 5,
+      "paddingVertical" : 8
+    },
+    "credit" : "Joseph Fusco",
+    "separator" : {
+      "color" : "#091C37FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#46545FFF",
+      "thickness" : 3
+    },
+    "name" : "Danger Zone"
+  }
+}
