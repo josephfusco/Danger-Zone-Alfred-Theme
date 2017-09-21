@@ -1,6 +1,6 @@
 # Danger Zone Alfred Theme
 
-A pretty sweet theme for [Alfred](https://www.alfredapp.com/) based on the [danger zone keycap set from massdrop](https://www.massdrop.com/buy/danger-zone-sa-keycap-set).
+A pretty sweet theme for [Alfred](https://www.alfredapp.com/) based on the [danger zone keycap set originally on massdrop](https://www.massdrop.com/buy/danger-zone-sa-keycap-set).
 
 ![screenshot of danger zone theme logo](https://user-images.githubusercontent.com/6676674/30597897-5f3203c8-9d26-11e7-9013-b50de524403a.png)
 
